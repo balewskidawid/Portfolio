@@ -10,4 +10,5 @@ The design of the gripper required consideration of the specific nature of work 
 ------
 
 *Raport_PKR.pdf* - Project report
+
 *chwytak.zip* - Final assembly (Siemens NX file)
