@@ -5,3 +5,5 @@ The project focused on the development of a drive mechanism dedicated to one of 
 *PKR_projekt_Napęd_śrubowy_raaport* - Project report
 
 *NX* - final assembly (NX file)
+
+![drive](./tytułowy.png)
