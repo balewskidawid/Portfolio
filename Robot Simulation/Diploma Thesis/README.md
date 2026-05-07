@@ -21,3 +21,6 @@ tests in a simulation environment comprising Gazebo Harmonic as the simulator, R
 communication and control layer, and RViz as the visualisation tool, all running on Ubuntu 24.04.
 The conclusions summarise the conducted experiments, discuss the limitations of the adopted
 approach, and propose directions for further development of the platform.
+
+
+![GS](./test_gz_swiat.png)
