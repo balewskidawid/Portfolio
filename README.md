@@ -30,18 +30,6 @@ Mechanical engineering projects and CAD-based designs presenting practical desig
 
 A dual-axis photovoltaic tracking system created as a family engineering project. The system uses PLC-based control to adjust panel position according to a time-based sun-tracking algorithm and improve energy yield compared to a fixed installation.
 
-## Technologies and Tools
-
-- C++
-- Object-oriented programming
-- Arduino
-- PLC control
-- Robot simulation
-- CAD design
-- Automation systems
-- Embedded systems
-- Renewable energy systems
-
 ## Repository Structure
 
 Each folder contains a separate project or group of related projects. Individual project folders may include source code, documentation, screenshots, diagrams, or additional technical descriptions.
